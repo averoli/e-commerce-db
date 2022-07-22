@@ -31,6 +31,30 @@
       "description": "In 1977, Claire Lake, Oregon, was shaken by the Lady Killer Murders: Two men, seemingly randomly, were murdered with the same gun, with strange notes left behind. Beth Greer was the perfect suspect--a rich, eccentric twenty-three-year-old woman, seen fleeing one of the crimes. But she was acquitted, and she retreated to the isolation of her mansion.",
       "rating": 3.86,
       "price": 17.29
+    },
+    {
+      "id": 58064046,
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635862579i/58064046.jpg",
+      "name": "Gallant",
+      "description": "Olivia Prior has grown up in Merilance School for girls, and all she has of her past is her mother’s journal—which seems to unravel into madness. Then, a letter invites Olivia to come home—to Gallant. Yet when Olivia arrives, no one is expecting her. But Olivia is not about to leave the first place that feels like home, it doesn’t matter if her cousin Matthew is hostile or if she sees half-formed ghouls haunting the hallways.",
+      "rating": 3.9,
+      "price": 11.19
+    },
+    {
+      "id": 57815107,
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635174962i/57815107.jpg",
+      "name": "The War of Two Queens (Blood and Ash, #4)",
+      "description": "Casteel Da’Neer knows all too well that very few are as cunning or vicious as the Blood Queen, but no one, not even him, could’ve prepared for the staggering revelations. The magnitude of what the Blood Queen has done is almost unthinkable.",
+      "rating": 4.05, 
+      "price": 14.39
+    },
+    {
+      "id": 57693416,
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633973719i/57693416.jpg",
+      "name": "The Golden Couple",
+      "description": "Wealthy Washington suburbanites Marissa and Matthew Bishop seem to have it all—until Marissa is unfaithful. Beneath their veneer of perfection is a relationship riven by work and a lack of intimacy. She wants to repair things for the sake of their eight-year-old son and because she loves her husband. Enter Avery Chambers.", 
+      "rating": 4.04,
+      "price": 17.09
     }
   ]
 }
