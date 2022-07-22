@@ -1,33 +1,36 @@
-[
-  {
-    "id": 58283080,
-    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627068858i/58283080.jpg",
-    "name": "Hook, Line, and Sinker (Bellinger Sisters, #2)",
-    "description": "King crab fisherman Fox Thornton has a reputation as a sexy, carefree flirt. Everyone knows he's a guaranteed good time--in bed and out--and that's exactly how he prefers it. Until he meets Hannah Bellinger. She's immune to his charm and looks, but she seems to enjoy his... personality? And wants to be friends? Bizarre. But he likes her too much to risk a fling, so platonic pals it is.",
-    "rating": 4.09,
-    "price": 13.99
-  },
-  {
-    "id": 58438583,
-    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627068858i/58283080.jpg",
-    "name": "Hook, Line, and Sinker (Bellinger Sisters, #2)",
-    "description": "King crab fisherman Fox Thornton has a reputation as a sexy, carefree flirt. Everyone knows he's a guaranteed good time--in bed and out--and that's exactly how he prefers it. Until he meets Hannah Bellinger. She's immune to his charm and looks, but she seems to enjoy his... personality? And wants to be friends? Bizarre. But he likes her too much to risk a fling, so platonic pals it is.",
-    "rating": 4.09,
-    "price": 10.49
-  },
-  {
-    "id": 56597885,
-    "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626799802i/58438583.jpg",
-    "name": "One Italian Summer",
-    "description": "When Katy’s mother dies, she is left reeling. Carol wasn’t just Katy’s mom, but her best friend and first phone call. She had all the answers and now, when Katy needs her the most, she is gone. To make matters worse, their planned mother-daughter trip of a lifetime looms: two weeks in Positano, the magical town Carol spent the summer right before she met Katy’s father. Katy has been waiting years for Carol to take her, and now she is faced with embarking on the adventure alone.",
-    "rating": 3.7,
-    "price": 11.29
-  },
-  {"id": 58371432,
-  "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624553583i/58371432.jpg",
-  "name": "The Book of Cold Cases",
-  "description": "In 1977, Claire Lake, Oregon, was shaken by the Lady Killer Murders: Two men, seemingly randomly, were murdered with the same gun, with strange notes left behind. Beth Greer was the perfect suspect--a rich, eccentric twenty-three-year-old woman, seen fleeing one of the crimes. But she was acquitted, and she retreated to the isolation of her mansion.",
-  "rating": 3.86,
-  "price": 17.29
-  }
-]
+{
+  "products": [
+    {
+      "id": 58283080,
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627068858i/58283080.jpg",
+      "name": "Hook, Line, and Sinker (Bellinger Sisters, #2)",
+      "description": "King crab fisherman Fox Thornton has a reputation as a sexy, carefree flirt. Everyone knows he's a guaranteed good time--in bed and out--and that's exactly how he prefers it. Until he meets Hannah Bellinger. She's immune to his charm and looks, but she seems to enjoy his... personality? And wants to be friends? Bizarre. But he likes her too much to risk a fling, so platonic pals it is.",
+      "rating": 4.09,
+      "price": 13.99
+    },
+    {
+      "id": 58438585,
+      "cover": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618329605l/56597885.jpg",
+      "name": "Beautiful World, Where Are You",
+      "description": "Alice, a novelist, meets Felix, who works in a warehouse, and asks him if he’d like to travel to Rome with her. In Dublin, her best friend, Eileen, is getting over a break-up and slips back into flirting with Simon, a man she has known since childhood. ",
+      "rating": 4.09,
+      "price": 10.49
+    },
+    {
+      "id": 56597883,
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626799802i/58438583.jpg",
+      "name": "One Italian Summer",
+      "description": "When Katy’s mother dies, she is left reeling. Carol wasn’t just Katy’s mom, but her best friend and first phone call. She had all the answers and now, when Katy needs her the most, she is gone. To make matters worse, their planned mother-daughter trip of a lifetime looms: two weeks in Positano, the magical town Carol spent the summer right before she met Katy’s father. Katy has been waiting years for Carol to take her, and now she is faced with embarking on the adventure alone.",
+      "rating": 3.7,
+      "price": 11.29
+    },
+    {
+      "id": 58371432,
+      "cover": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1624553583i/58371432.jpg",
+      "name": "The Book of Cold Cases",
+      "description": "In 1977, Claire Lake, Oregon, was shaken by the Lady Killer Murders: Two men, seemingly randomly, were murdered with the same gun, with strange notes left behind. Beth Greer was the perfect suspect--a rich, eccentric twenty-three-year-old woman, seen fleeing one of the crimes. But she was acquitted, and she retreated to the isolation of her mansion.",
+      "rating": 3.86,
+      "price": 17.29
+    }
+  ]
+}
